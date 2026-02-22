@@ -1,0 +1,24 @@
+                    Summary:
+
+
+In this practical, I developed five versions of a monthly expenditure program in C. Each version added new features and helped me understand programming step by step.
+
+I learned that every C program must have a main() function, and the program code is written inside curly braces {}.
+
+I used variables to store expenses such as food, leisure, clothes, accommodation, and travel. I learned about data types like float for decimal numbers and int for whole numbers.
+
+I assigned values to variables using the = operator and used the + operator to calculate the total amount spent.
+
+I learned how to write comments using:
+
+/* */ for multi-line comments
+
+// for single-line comments
+
+I used printf() to display output and scanf() to take input from the user. I also learned to use the & symbol with scanf().
+
+I used the const keyword to define fixed values such as accommodation costs.
+
+Finally, I understood that creating new versions of a program (A–E) is good practice because it helps me keep previous versions safe and track my progress.
+
+This practical helped me understand the basic concepts of C programming in a simple and clear way.
